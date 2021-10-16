@@ -3,6 +3,16 @@ Fork differences
 </h2>
 This fork uses sane colors for search in andromeda theme
 
+___
+Original
+
+![sonokai_original_search](https://user-images.githubusercontent.com/5247907/137578964-6ab6b196-3ed5-4dd3-b1ad-f94113d08b92.png)
+___
+Forked
+
+![sonokai_search_new](https://user-images.githubusercontent.com/5247907/137578975-22eef031-96f1-40d0-9ef6-c9e0dafe27a0.png)
+
+___
 <h2 align="center">
 𝐃𝐞𝐟𝐚𝐮𝐥𝐭
 </h2>
