@@ -1,4 +1,9 @@
 <h2 align="center">
+Fork differences
+</h2>
+This fork uses sane colors for search in andromeda theme
+
+<h2 align="center">
 𝐃𝐞𝐟𝐚𝐮𝐥𝐭
 </h2>
 
